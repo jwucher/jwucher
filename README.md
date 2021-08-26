@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on whirled peas.
 - 📫 How to reach me ... with donuts!
 
-Once upon a time, I dreamed in code and wrote stuff for games.  The rivers of thoughts flowed and overflowed and the fruits were wonderous...in my mind :).
+Once upon a time, I dreamed in code and wrote many things for my own games (and amusement).  The rivers of thoughts flowed and overflowed and the fruits were wonderous...in my mind :).
 Some of those can be found here (under my old company):  https://github.com/NonlinearIdeas.
 
 <!---
